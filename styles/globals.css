@@ -14,3 +14,26 @@ a {
 * {
   box-sizing: border-box;
 }
+
+nav {
+  display: flex;
+  flex-direction: row;;
+  justify-content: space-around;
+  background-color:#0599d7;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+}
+
+nav a:hover {
+  color: #ffc221
+}
+
+.image {
+  width: 100vw;
+}
+
+.gallery {
+  padding: 2em;
+}
+
