@@ -37,3 +37,15 @@ nav a:hover {
   padding: 2em;
 }
 
+.underline {
+  width:4em;
+  height: 8px;
+  border-radius: 4px;
+  position: absolute;
+  bottom: -4px;
+  color: #ffc221
+}
+
+.title.selected {
+  color: #ffc221;
+}
